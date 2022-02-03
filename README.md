@@ -1,3 +1,1 @@
-# vitejs-vite-fh3m3g
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-fh3m3g)
+A website to find what NFTs to buy.
