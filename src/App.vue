@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue';
 
 <template>
   <img alt="Vue logo" src="/favicon.svg" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <HelloWorld msg="What NFTs should I buy?" />
 </template>
 
 <style>
